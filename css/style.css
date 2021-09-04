@@ -1,0 +1,27 @@
+th{
+    /* ヘッダ背景塗りつぶし */
+    background: #eee;
+}
+ th,td {
+   /* 枠線を1本線指定 */
+    border: solid 1px;
+    width:auto;
+}
+table{
+   /* 枠線を1本線指定 */
+    border: solid 1px;
+    border-collapse:  collapse;
+    white-space: nowrap;
+}
+
+.box_left{
+    margin-top: 70px;
+	margin-left:10px;
+	float:left;
+}
+
+.map_left{
+    margin-top: 70px;
+	margin-left:100px;
+	float:left;
+}
